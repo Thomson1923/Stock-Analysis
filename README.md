@@ -10,7 +10,7 @@
 
 # Results
 ## Stock Performance
-### Comparison of the output for 12 selected stocks shows that most of the chosen stocks provide positive returns during 2017 () while most showed disappointing performance the following year (). The use of conditional formatting (green cell interior shading for positive returns and red interior shading for negative returns) provides an extremely rapid means for assessing the performance of these stocks.
+### Comparison of the output for 12 selected stocks shows that most of the chosen stocks provide positive returns during 2017 (https://github.com/Thomson1923/Stock-Analysis/blob/master/Resources/VBA_Challenge_2017_Initial.png) while most showed disappointing performance the following year (). The use of conditional formatting (green cell interior shading for positive returns and red interior shading for negative returns) provides an extremely rapid means for assessing the performance of these stocks.
 
 ## Refactoring Code
 ### This project relied on code obtained from another source and included substantial refactoring work. The starting code, which relied on repeated review of the data sets to extract the relevant values, required well over one second to complete for information from 2017 and 2018 (see exhibits from Stock Performance). However, refactoring the code to allow for al data to be retrieved through a single review of the data set lowered the execution time by 82%% for 2017 data () and 74%% for 2018 data (). The benefits offered by this improvement in the code will become clearer as we expended the number of stocks analyzed.
