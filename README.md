@@ -6,7 +6,7 @@
 # Re: Development of VBA Code to Calculate Key Information for Publicly Traded Stocks
 
 # Project Overview
-## We recently developed Visual Basic for Application (VBA) code to calculate key stock information (annual trading volume and investment returns during calendar years) from daily information (). While calculation of these parameters can be easily performed using standard Excel formulas in typical worksheets, the VBA code provides the means for rapid calculation of numerous stocks during user-selected years and formatted output to simplify analysis.
+## We recently developed Visual Basic for Application (VBA) code to calculate key stock information (annual trading volume and investment returns during calendar years) from daily information (https://github.com/Thomson1923/Stock-Analysis/blob/master/Resources/VBA_Challenge.vbs). While calculation of these parameters can be easily performed using standard Excel formulas in typical worksheets, the VBA code provides the means for rapid calculation of numerous stocks during user-selected years and formatted output to simplify analysis.
 
 # Results
 ## Stock Performance
